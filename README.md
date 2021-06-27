@@ -1,6 +1,6 @@
 ### Hii... <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<img src="tes.jpg" alt="AdiOfficialL">
+<img src="IMG-20210618-WA0001.jpg" alt="AdiOfficialL">
 
 ### <========== KNOW MORE ABOUT ME ==========>
 
