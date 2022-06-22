@@ -16,7 +16,7 @@
 
 <p align="center">
 <a href="https://wa.me/6289504585790"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://instagram.com/ff_patr1ck"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://instagram.com/adi.cug"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 </p>
 
 ### <==========================================>
